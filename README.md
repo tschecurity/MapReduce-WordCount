@@ -1,5 +1,5 @@
 # MapReduce-WordCount
- :bulb: Before starting the Word Count Program in Hadoop you will need a few items:
+ :bulb: Before starting the WordCount Program in Hadoop you will need a few items:
 * A virtual machine manager
 * A virtual machine
 * A computer with a large amount of ram *over 10gb is recommended as the virtual machine itself can take up over 5gb of space on your computer.
